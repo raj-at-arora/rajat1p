@@ -1,3 +1,4 @@
 # rajat1p
-This is my first git repository
-Author Name- RAJAT ARORA
+This is my first git repository.
+<br>
+Author- RAJAT ARORA
